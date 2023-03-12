@@ -1,14 +1,14 @@
 [ 
-{ país: "EEUU", visitas: 23725 }, 
-{ país: "China", visitas: 1882 }, 
-{ país: "Japón", visitas: 1809 }, 
-{ país: "Alemania", visitas: 1322 }, 
-{ país: "Reino Unido", visitas: 1122 }, 
-{ país: "Francia", visitas: 1114 }, 
-{ país: "India", visitas: 984 }, 
-{ país: "España", visitas: 711 }, 
-{ país: "Holanda", visitas: 665 }, 
-{ país: "Rusia", visitas: 580 }, 
-{ país: "Corea del Sur", visitas: 443 }, 
-{ país: "Canadá", visitas: 441 }  
+{ pais: "EEUU", visitas: 23725 }, 
+{ pais: "China", visitas: 1882 }, 
+{ pais: "Japón", visitas: 1809 }, 
+{ pais: "Alemania", visitas: 1322 }, 
+{ pais: "Reino Unido", visitas: 1122 }, 
+{ pais: "Francia", visitas: 1114 }, 
+{ pais: "India", visitas: 984 }, 
+{ pais: "España", visitas: 711 }, 
+{ pais: "Holanda", visitas: 665 }, 
+{ pais: "Rusia", visitas: 580 }, 
+{ pais: "Corea del Sur", visitas: 443 }, 
+{ pais: "Canadá", visitas: 441 }  
 ]
