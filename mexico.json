@@ -1,130 +1,130 @@
 [
   {
-    id: "MX-ZAC",
+    "id": "MX-ZAC",
     value: 4447100
   },
   {
-    id: "MX-YUC",
+    "id": "MX-YUC",
     value: 626932
   },
   {
-    id: "MX-VER",
+    "id": "MX-VER",
     value: 5130632
   },
   {
-    id: "MX-TLA",
+    "id": "MX-TLA",
     value: 2673400
   },
   {
-    id: "MX-TAM",
+    "id": "MX-TAM",
     value: 33871648
   },
   {
-    id: "MX-TAB",
+    "id": "MX-TAB",
     value: 4301261
   },
   {
-    id: "MX-SON",
+    "id": "MX-SON",
     value: 3405565
   },
   {
-    id: "MX-SIN",
+    "id": "MX-SIN",
     value: 783600
   },
   {
-    id: "MX-SLP",
+    "id": "MX-SLP",
     value: 15982378
   },
   {
-    id: "MX-ROO",
+    "id": "MX-ROO",
     value: 8186453
   },
   {
-    id: "MX-QUE",
+    "id": "MX-QUE",
     value: 1211537
   },
   {
-    id: "MX-PUE",
+    "id": "MX-PUE",
     value: 1293953
   },
   {
-    id: "MX-OAX",
+    "id": "MX-OAX",
     value: 12419293
   },
   {
-    id: "MX-NLE",
+    "id": "MX-NLE",
     value: 6080485
   },
   {
-    id: "MX-NAY",
+    "id": "MX-NAY",
     value: 2926324
   },
   {
-    id: "MX-MOR",
+    "id": "MX-MOR",
     value: 2688418
   },
   {
-    id: "MX-MIC",
+    "id": "MX-MIC",
     value: 4041769
   },
   {
-    id: "MX-MEX",
+    "id": "MX-MEX",
     value: 4468976
   },
   {
-    id: "MX-JAL",
+    "id": "MX-JAL",
     value: 1274923
   },
   {
-    id: "MX-HID",
+    "id": "MX-HID",
     value: 5296486
   },
   {
-    id: "MX-GRO",
+    "id": "MX-GRO",
     value: 6349097
   },
   {
-    id: "MX-GUA",
+    "id": "MX-GUA",
     value: 9938444
   },
   {
-    id: "MX-DUR",
+    "id": "MX-DUR",
     value: 4919479
   },
   {
-    id: "MX-CMX",
+    "id": "MX-CMX",
     value: 2844658
   },
   {
-    id: "MX-COL",
+    "id": "MX-COL",
     value: 5595211
   },
   {
-    id: "MX-COA",
+    "id": "MX-COA",
     value: 902195
   },
   {
-    id: "MX-CHH",
+    "id": "MX-CHH",
     value: 1711263
   },
   {
-    id: "MX-CHP",
+    "id": "MX-CHP",
     value: 1998257
   },
   {
-    id: "MX-CAM",
+    "id": "MX-CAM",
     value: 1235786
   },
   {
-    id: "MX-BCS",
+    "id": "MX-BCS",
     value: 8414350
   },
   {
-    id: "MX-BCN",
+    "id": "MX-BCN",
     value: 1819046
   },
   {
-    id: "MX-AGU",
+    "id": "MX-AGU",
     value: 18976457
   }
 ]
